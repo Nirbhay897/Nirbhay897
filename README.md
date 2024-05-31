@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nirbhaygup54892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nirbhaygup54892" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirbhay gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirbhay gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nirbhay-gupta-762143226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirbhay gupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nirbhay541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirbhay541" height="30" width="40" /></a>
 </p>
 
