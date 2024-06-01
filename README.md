@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **guptanirbhay541@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PZSJtfjWOZ_CoRGjBgEGskgShRwlRc-P/view?usp=drive_link](https://drive.google.com/file/d/1PZSJtfjWOZ_CoRGjBgEGskgShRwlRc-P/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Bxe-Apfrl1WFrF8Ytg8nrLPogI7I2Mbg/](https://drive.google.com/file/d/1Bxe-Apfrl1WFrF8Ytg8nrLPogI7I2Mbg/view?usp=sharing)
 
 - ⚡ What I can do ? **I can build Web apps, Mobile app, Dapps, AR apps**
 
